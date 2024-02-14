@@ -7,3 +7,6 @@ This project is to conduct a 'Dimension Reduction' process to select appropriate
 1. Stepwise regression <br>
 2. Ridge Regression(PCR) <br>
 3. Subset Selection 
+
+**Proejct Report** <br>
+[Link display text - Document](https://github.com/jennakwak/DS-Project/blob/main/MATH564_Proejct_Report_Kwak.pdf)
