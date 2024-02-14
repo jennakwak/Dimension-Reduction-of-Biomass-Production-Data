@@ -9,4 +9,4 @@ This project is to conduct a 'Dimension Reduction' process to select appropriate
 3. Subset Selection 
 
 **Proejct Report** <br>
-[Link display text - Document](https://github.com/jennakwak/DS-Project/blob/main/MATH564_Proejct_Report_Kwak.pdf)
+[Demension Reduction of Biomass Production Report - Document](https://github.com/jennakwak/DS-Project/blob/main/MATH564_Proejct_Report_Kwak.pdf)
